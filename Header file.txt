@@ -1,0 +1,10 @@
+Header file
+
+A header file is a text file that contains declarations of functions, variables, and other entities.
+It is used to share code between different source files.
+Header files are typically named with the .h extension.
+Library file
+
+A library file is a binary file that contains the actual code for the functions and variables declared in the header file.
+It is linked with the executable file to provide the actual implementation of the code.
+Library files are typically named with the .lib extension.
